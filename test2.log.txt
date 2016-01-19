@@ -1,0 +1,836 @@
+4
+1. Apache process is Running Sun 26 Jan 2014 14:18:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:18:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:18:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:18:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:18:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:18:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:18:19 GMT
+The total percentage of memory used is: 47.600%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:19:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:19:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:19:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:19:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:19:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:19:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:19:19 GMT
+The total percentage of memory used is: 47.600%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:20:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:20:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:20:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:20:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:20:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:20:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:20:18 GMT
+The total percentage of memory used is: 47.600%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:21:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:21:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:21:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:21:04 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:21:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:21:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:21:20 GMT
+The total percentage of memory used is: 47.600%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:22:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:22:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:22:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:22:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:22:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:22:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:22:18 GMT
+The total percentage of memory used is: 47.600%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:23:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:23:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:23:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:23:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:23:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:23:03 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 14:23:09 GMT
+The total percentage of memory used is: 47.600%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:24:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:24:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:24:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:24:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:24:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:24:03 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 14:24:09 GMT
+The total percentage of memory used is: 47.600%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:25:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:25:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:25:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:25:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:25:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:25:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:25:18 GMT
+The total percentage of memory used is: 47.600%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:26:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:26:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:26:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:26:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:26:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:26:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:26:18 GMT
+The total percentage of memory used is: 47.600%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:27:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:27:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:27:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:27:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:27:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:27:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:27:19 GMT
+The total percentage of memory used is: 47.600%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:28:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:28:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:28:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:28:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:28:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:28:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:28:19 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:29:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:29:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:29:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:29:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:29:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:29:03 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 14:29:09 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:30:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:30:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:30:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:30:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:30:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:30:03 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 14:30:09 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:31:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:31:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:31:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:31:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:31:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:31:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:31:17 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:32:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:32:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:32:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:32:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:32:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:32:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:32:19 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:33:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:33:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:33:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:33:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:33:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:33:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:33:18 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:34:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:34:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:34:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:34:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:34:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:34:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:34:18 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:35:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:35:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:35:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:35:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:35:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:35:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:35:18 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:36:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:36:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:36:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:36:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:36:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:36:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:36:18 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:37:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:37:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:37:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:37:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:37:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:37:04 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 14:37:09 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:38:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:38:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:38:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:38:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:38:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:38:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:38:18 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:39:03 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:39:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:39:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:39:04 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:39:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:39:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:39:19 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:40:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:40:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:40:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:40:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:40:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:40:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:40:19 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:41:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:41:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:41:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:41:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:41:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:41:04 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 14:41:10 GMT
+The total percentage of memory used is: 47.700%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:42:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:42:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:42:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:42:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:42:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:42:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:42:18 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:43:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:43:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:43:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:43:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:43:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:43:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:43:18 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:44:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:44:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:44:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:44:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:44:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:44:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:44:19 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:45:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:45:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:45:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:45:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:45:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:45:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:45:18 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:46:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:46:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:46:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:46:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:46:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:46:03 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 14:46:08 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:47:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:47:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:47:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:47:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:47:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:47:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:47:18 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:48:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:48:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:48:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:48:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:48:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:48:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:48:18 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:49:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:49:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:49:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:49:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:49:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:49:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:49:19 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:50:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:50:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:50:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:50:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:50:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:50:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:50:18 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:51:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:51:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:51:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:51:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:51:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:51:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:51:19 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:52:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:52:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:52:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:52:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:52:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:52:03 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 14:52:08 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:53:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:53:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:53:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:53:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:53:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:53:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:53:18 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:54:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:54:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:54:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:54:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:54:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:54:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:54:19 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:55:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:55:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:55:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:55:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:55:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:55:04 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 14:55:19 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:56:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:56:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:56:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:56:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:56:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:56:04 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 14:56:09 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:57:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:57:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:57:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:57:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:57:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:57:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:57:18 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:58:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:58:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:58:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:58:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:58:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:58:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:58:18 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 14:59:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 14:59:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 14:59:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 14:59:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 14:59:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 14:59:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 14:59:18 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:00:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:00:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:00:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:00:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:00:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:00:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:00:19 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:01:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:01:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:01:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:01:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:01:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:01:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:01:18 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:02:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:02:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:02:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:02:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:02:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:02:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:02:19 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:03:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:03:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:03:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:03:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:03:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:03:04 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:03:10 GMT
+The total percentage of memory used is: 47.800%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:04:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:04:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:04:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:04:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:04:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:04:03 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:04:09 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:05:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:05:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:05:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:05:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:05:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:05:04 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:05:10 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:06:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:06:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:06:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:06:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:06:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:06:04 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:06:09 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:07:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:07:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:07:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:07:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:07:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:07:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:07:19 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:08:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:08:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:08:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:08:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:08:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:08:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:08:18 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:09:03 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:09:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:09:04 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:09:04 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:09:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:09:05 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:09:10 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:10:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:10:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:10:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:10:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:10:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:10:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:10:18 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:11:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:11:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:11:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:11:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:11:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:11:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:11:19 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:12:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:12:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:12:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:12:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:12:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:12:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:12:18 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:13:03 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:13:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:13:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:13:04 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:13:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:13:04 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:13:10 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:14:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:14:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:14:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:14:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:14:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:14:03 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:14:18 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:15:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:15:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:15:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:15:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:15:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:15:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:15:19 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:16:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:16:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:16:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:16:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:16:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:16:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:16:18 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:17:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:17:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:17:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:17:04 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:17:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:17:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:17:19 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:18:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:18:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:18:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:18:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:18:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:18:04 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:18:09 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:19:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:19:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:19:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:19:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:19:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:19:04 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:19:10 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:20:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:20:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:20:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:20:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:20:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:20:03 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:20:08 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:21:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:21:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:21:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:21:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:21:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:21:04 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:21:10 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:22:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:22:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:22:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:22:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:22:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:22:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:22:19 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:23:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:23:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:23:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:23:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:23:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:23:04 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:23:10 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:24:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:24:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:24:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:24:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:24:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:24:03 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:24:18 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:25:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:25:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:25:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:25:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:25:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:25:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:25:19 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:26:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:26:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:26:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:26:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:26:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:26:03 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:26:08 GMT
+The total percentage of memory used is: 48.000%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:27:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:27:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:27:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:27:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:27:03 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:27:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:27:18 GMT
+The total percentage of memory used is: 47.900%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:28:01 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:28:01 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:28:02 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:28:02 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:28:02 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:28:02 GMT
+ERROR COUNT is: 0
+7. Git.com is pinging, there is a connection to Git Sun 26 Jan 2014 15:28:07 GMT
+The total percentage of memory used is: 48.000%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:29:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:29:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:29:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:29:04 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:29:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:29:05 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:29:19 GMT
+The total percentage of memory used is: 48.000%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:30:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:30:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:30:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:30:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:30:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:30:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:30:19 GMT
+The total percentage of memory used is: 48.000%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:31:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:31:02 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:31:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:31:03 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:31:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:31:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:31:19 GMT
+The total percentage of memory used is: 48.000%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:32:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:32:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:32:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:32:04 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:32:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:32:04 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:32:19 GMT
+The total percentage of memory used is: 48.000%
+4
+1. Apache process is Running Sun 26 Jan 2014 15:33:02 GMT
+2. Apache is Listening Sun 26 Jan 2014 15:33:03 GMT
+3. Remote Apache TCP port is up Sun 26 Jan 2014 15:33:03 GMT
+1
+4. Mysql process is Running Sun 26 Jan 2014 15:33:04 GMT
+5. Mysql is Listening Sun 26 Jan 2014 15:33:04 GMT
+6. Remote Mysql TCP port is up Sun 26 Jan 2014 15:33:05 GMT
+ERROR COUNT is: 0
+7. Git.com is not pinging, there is no connection to Git Sun 26 Jan 2014 15:33:19 GMT
+The total percentage of memory used is: 48.000%
